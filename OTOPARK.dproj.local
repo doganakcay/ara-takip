@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012.12.26 09:33:56.999.pas,D:\DOGAN\DOGAN\projeler\Unit1.pas=D:\DOGAN\DOGAN\projeler\EVRAKTAKIP_YENI\ARAÇ_TAKIP\UARACLAR.pas</Transaction>
+    <Transaction>2012.12.26 09:33:56.999.dfm,D:\DOGAN\DOGAN\projeler\Unit1.dfm=D:\DOGAN\DOGAN\projeler\EVRAKTAKIP_YENI\ARAÇ_TAKIP\UARACLAR.dfm</Transaction>
+    <Transaction>2012.12.26 09:34:02.303.dproj,D:\DOGAN\DOGAN\projeler\Project1.dproj=D:\DOGAN\DOGAN\projeler\EVRAKTAKIP_YENI\ARAÇ_TAKIP\OTOPARK.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
